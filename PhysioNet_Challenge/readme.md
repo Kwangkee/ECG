@@ -28,8 +28,10 @@ PhysioNet/CinC Challenge 2021 Evaluation Metrics, https://github.com/physionetch
 
 Each ECG recording has one or more labels that describe cardiac abnormalities (and/or a normal sinus rhythm). We mapped the labels for each recording to SNOMED-CT codes. The lists of scored labels and unscored labels are given with the evaluation code; see the scoring section for details.
 
-
+### 30 (31?) diagnoses
 https://github.com/physionetchallenges/evaluation-2021/blob/main/dx_mapping_scored.csv
+
+We used 30 of the 133 diagnoses in the Challenge data to evaluate the algorithms. Our cardiologists chose these 30 diagnoses because they were relatively prevalent, of clinical interest, and electrophysiological and therefore able to be accurately diagnosed using ECG recordings alone.
 
 ### 
 Python example code for the PhysioNet/Computing in Cardiology Challenge 2021, https://github.com/physionetchallenges/python-classifier-2021
