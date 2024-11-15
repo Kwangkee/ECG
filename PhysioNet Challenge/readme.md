@@ -8,7 +8,7 @@ PhysioNet Challenges, https://moody-challenge.physionet.org/
 ## Challenge 2021
 The PhysioNet/Computing in Cardiology Challenge 2021, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Will+two+do%3F+Varying+dimensions+in+electrocardiography%3A+the+PhysioNet%2FComputing+in+Cardiology+Challenge+2021&btnG=
 
-The final scores & raanking, https://moody-challenge.physionet.org/2021/results/
+The final scores & ranking, https://moody-challenge.physionet.org/2021/results/
 
 ### Data
 The training data contains twelve-lead ECGs. The validation and test data contains twelve-lead, six-lead, four-lead, three-lead, and two-lead ECGs:
