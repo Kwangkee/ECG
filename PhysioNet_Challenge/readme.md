@@ -10,12 +10,13 @@ PhysioNet Challenges, https://moody-challenge.physionet.org/
 - Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge 2021, https://physionet.org/content/challenge-2021/1.0.3/ 
 - The PhysioNet/Computing in Cardiology Challenge 2021, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Will+two+do%3F+Varying+dimensions+in+electrocardiography%3A+the+PhysioNet%2FComputing+in+Cardiology+Challenge+2021&btnG=
 
+## Ranking
 The final scores & ranking, https://moody-challenge.physionet.org/2021/results/
 - 1st: Classification of ECG Using Ensemble of Residual CNNs with Attention Mechanism, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Classification+of+ECG+Using+Ensemble+of+Residual+CNNs+with+Attention+Mechanism&btnG=
 - 2nd: Towards High Generalization Performance on Electrocardiogram Classification, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+High+Generalization+Performance+on+Electrocardiogram+Classification&btnG=, [SNU, HUINO] https://ieeexplore.ieee.org/abstract/document/9662737/authors#authors
 - 3rd: Multi-label Cardiac Abnormality Classification from Electrocardiogram using Deep Convolutional Neural Networks, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-label+Cardiac+Abnormality+Classification+from+Electrocardiogram+using+Deep+Convolutional+Neural+Networks&btnG=
 
-### Data Description
+## Data Description
 The training data contains twelve-lead ECGs. The validation and test data contains twelve-lead, six-lead, four-lead, three-lead, and two-lead ECGs:
 - Twelve leads: I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, V6
 - Six leads: I, II, III, aVR, aVL, aVF
