@@ -11,7 +11,7 @@ PhysioNet Challenges, https://moody-challenge.physionet.org/
 
 The final scores & ranking, https://moody-challenge.physionet.org/2021/results/
 - 1st: Classification of ECG Using Ensemble of Residual CNNs with Attention Mechanism, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Classification+of+ECG+Using+Ensemble+of+Residual+CNNs+with+Attention+Mechanism&btnG=
-- 2nd: Towards High Generalization Performance on Electrocardiogram Classification, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+High+Generalization+Performance+on+Electrocardiogram+Classification&btnG=, [SNU, Huino] https://ieeexplore.ieee.org/abstract/document/9662737/authors#authors
+- 2nd: Towards High Generalization Performance on Electrocardiogram Classification, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+High+Generalization+Performance+on+Electrocardiogram+Classification&btnG=, [SNU, HUINO] https://ieeexplore.ieee.org/abstract/document/9662737/authors#authors
 - 3rd: Multi-label Cardiac Abnormality Classification from Electrocardiogram using Deep Convolutional Neural Networks, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-label+Cardiac+Abnormality+Classification+from+Electrocardiogram+using+Deep+Convolutional+Neural+Networks&btnG=
 
 ### Data
