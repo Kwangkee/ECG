@@ -15,7 +15,7 @@ The training data contains twelve-lead ECGs. The validation and test data contai
  -Three leads: I, II, V2
 - Two leads: I, II
 
-### Evaluation Metrics
+### Evaluation Code & Metrics
 PhysioNet/CinC Challenge 2021 Evaluation Metrics, https://github.com/physionetchallenges/evaluation-2021
 
 Each ECG recording has one or more labels that describe cardiac abnormalities (and/or a normal sinus rhythm). We mapped the labels for each recording to SNOMED-CT codes. The lists of scored labels and unscored labels are given with the evaluation code; see the scoring section for details.
