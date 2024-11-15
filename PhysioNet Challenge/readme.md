@@ -5,9 +5,9 @@ PhysioNet Challenges, https://moody-challenge.physionet.org/
 
 
 ***
-## 2021
+## Challenge 2021
 
-Data
+### Data
 The training data contains twelve-lead ECGs. The validation and test data contains twelve-lead, six-lead, four-lead, three-lead, and two-lead ECGs:
 
 Twelve leads: I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, V6
