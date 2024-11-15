@@ -15,13 +15,26 @@ The final scores & ranking, https://moody-challenge.physionet.org/2021/results/
 - 2nd: Towards High Generalization Performance on Electrocardiogram Classification, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+High+Generalization+Performance+on+Electrocardiogram+Classification&btnG=, [SNU, HUINO] https://ieeexplore.ieee.org/abstract/document/9662737/authors#authors
 - 3rd: Multi-label Cardiac Abnormality Classification from Electrocardiogram using Deep Convolutional Neural Networks, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-label+Cardiac+Abnormality+Classification+from+Electrocardiogram+using+Deep+Convolutional+Neural+Networks&btnG=
 
-### Data
+### Data Description
 The training data contains twelve-lead ECGs. The validation and test data contains twelve-lead, six-lead, four-lead, three-lead, and two-lead ECGs:
 - Twelve leads: I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, V6
 - Six leads: I, II, III, aVR, aVL, aVF
 - Four leads: I, II, III, V2
  -Three leads: I, II, V2
 - Two leads: I, II
+
+### Data Sources
+The Challenge data include recordings from last year’s Challenge and many new recordings for this year’s Challenge:
+
+- CPSC Database and CPSC-Extra Database
+- INCART Database
+- PTB and PTB-XL Database
+- The Georgia 12-lead ECG Challenge (G12EC) Database
+- Augmented Undisclosed Database
+- Chapman-Shaoxing and Ningbo Database
+- The University of Michigan (UMich) Database
+
+We are not planning to release the test data at any point, including after the end of the Challenge. Requests for the test data will not receive a response. We do not release test data to prevent overfitting on the test data and claims or publications of inflated performances. We will entertain requests to run code on the test data after the Challenge on a limited basis based on publication necessity and capacity. (The Challenge is largely staged by volunteers.)
 
 ### Evaluation Code & Metrics
 PhysioNet/CinC Challenge 2021 Evaluation Metrics, https://github.com/physionetchallenges/evaluation-2021
@@ -32,6 +45,7 @@ Each ECG recording has one or more labels that describe cardiac abnormalities (a
 https://github.com/physionetchallenges/evaluation-2021/blob/main/dx_mapping_scored.csv
 
 We used 30 of the 133 diagnoses in the Challenge data to evaluate the algorithms. Our cardiologists chose these 30 diagnoses because they were relatively prevalent, of clinical interest, and electrophysiological and therefore able to be accurately diagnosed using ECG recordings alone.
+
 
 ### 
 Python example code for the PhysioNet/Computing in Cardiology Challenge 2021, https://github.com/physionetchallenges/python-classifier-2021
