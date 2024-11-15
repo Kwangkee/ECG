@@ -6,8 +6,8 @@ PhysioNet Challenges, https://moody-challenge.physionet.org/
 
 ***
 ## PhysioNet Challenge 2021
-- Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge 2021, https://physionet.org/content/challenge-2021/1.0.3/ 
 - Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge 2021, https://moody-challenge.physionet.org/2021/
+- Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge 2021, https://physionet.org/content/challenge-2021/1.0.3/ 
 - The PhysioNet/Computing in Cardiology Challenge 2021, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Will+two+do%3F+Varying+dimensions+in+electrocardiography%3A+the+PhysioNet%2FComputing+in+Cardiology+Challenge+2021&btnG=
 
 The final scores & ranking, https://moody-challenge.physionet.org/2021/results/
